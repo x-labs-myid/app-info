@@ -1,0 +1,99 @@
+[
+  {
+    "version": "1.2.6",
+    "release_date": "2025-02-10",
+    "features": [
+      {
+        "title": "Riwayat pembayaran kasbon",
+        "description": "Menu ini dapat di akses melalui halaman rincian kasbon, tap pada salah satu item kasbon, di sana ada muncul menu baru dengan nama Riwayat Pembayaran"
+      }
+    ],
+    "changes": [],
+    "fixes": [],
+    "info": []
+  }, 
+  {
+    "version": "1.2.5",
+    "release_date": "2025-01-29",
+    "features": [
+     
+    ],
+    "changes": [
+       {
+        "title": "Tampilan Antar muka",
+        "description": "Perbaikan tampilan antar muka aplikasi agar terlihat lebih rapih dan mudah di gunakan pengguna"
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
+    "version": "1.2.4",
+    "release_date": "2025-01-29",
+    "features": [
+     
+    ],
+    "changes": [
+       {
+        "title": "Tampilan Antar muka",
+        "description": "Perbaikan tampilan antar muka aplikasi agar terlihat lebih rapih dan mudah di gunakan pengguna"
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
+    "version": "1.2.3",
+    "release_date": "2025-01-11",
+    "features": [
+     
+    ],
+    "changes": [
+       {
+        "title": "Tampilan Antar muka",
+        "description": "Perbaikan tampilan antar muka aplikasi agar terlihat lebih rapih dan mudah di gunakan pengguna"
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
+    "version": "1.2.2",
+    "release_date": "2024-12-21",
+    "features": [],
+    "changes": [],
+    "fixes": [
+      {
+        "title": "Perbaikan Error atau Bugs",
+        "description": "Memperbaiki kesalahan dalam perhitungan atau kalkulasi kasbon"
+      }
+    ],
+    "info": []
+  },
+  {
+    "version": "1.2.0",
+    "release_date": "2024-11-11",
+    "features": [],
+    "changes": [],
+    "fixes": [
+      {
+        "title": "Perbaikan Error atau Bugs",
+        "description": "Memperbaiki kesalahan dalam perhitungan atau kalkulasi kasbon"
+      }
+    ],
+    "info": []
+  },
+  {
+    "version": "1.0.0",
+    "release_date": "2024-04-14",
+    "features": [],
+    "changes": [],
+    "fixes": [],
+    "info": [
+      {
+        "title": "Diluncurkan",
+        "description": "Pertama kali di luncurkan"
+      }
+    ]
+  }
+]
