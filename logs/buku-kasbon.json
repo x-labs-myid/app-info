@@ -4,8 +4,8 @@
     "release_date": "2025-03-10",
     "features": [
       {
-        "title": "Penambahan menu {Apa yang baru?}",
-        "description": "Menambahkan menu {Apa yang Baru?}, sebuah menu yang berfungsi untuk memberi tahu pengguna tentang pembaruan yang telah dilakukan pada setiap versi aplikasi."
+        "title": "Penambahan menu Apa yang baru?",
+        "description": "Sebuah menu yang berfungsi untuk memberi tahu pengguna tentang pembaruan yang telah dilakukan pada setiap versi aplikasi."
       }
     ],
     "changes": [],
