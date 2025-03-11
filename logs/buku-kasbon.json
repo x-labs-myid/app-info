@@ -27,7 +27,7 @@
     "changes": [
       {
         "title": "Memisahkan kasbon Lunas dan Belum Lunas",
-        "description": "Pemabahan tampilan Tab pada Halaman Rincian Kasbon untuk memisahkan daftar kasbon yang Sudah Lunas dan yang Belum Lunas"
+        "description": "Penambahan tampilan tab pada halaman Rincian Kasbon untuk memisahkan daftar kasbon yang sudah lunas dan yang belum lunas."
       }
     ],
     "fixes": [],
