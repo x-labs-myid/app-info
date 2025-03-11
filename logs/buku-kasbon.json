@@ -13,6 +13,9 @@
       {
         "title": "Konfirmasi menutup aplikasi",
         "description": "Jika tombol Back ditekan dua kali atau lebih dalam waktu bersamaan, sebuah dialog konfirmasi akan muncul untuk menanyakan apakah Anda ingin menutup aplikasi."
+      }, {
+        "title": "Perbaikan Tampilan",
+        "description": "Sedikit perbaikan tampilan di halaman pengaturan dan beranda."
       }
     ],
     "info": []
