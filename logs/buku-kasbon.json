@@ -1,5 +1,23 @@
 [
   {
+    "version": "1.2.9",
+    "release_date": "2025-03-22",
+    "features": [
+        {
+            "title": "Bagikan Rincian Kasbon",
+            "description": "Fitur ini memungkinkan Anda membagikan ringkasan rincian kasbon dalam bentuk gambar, sehingga lebih mudah dikirim langsung ke pelanggan. Dengan begitu, pelanggan dapat dengan cepat mengetahui jumlah kasbon mereka di toko Anda. Menu ini dapat diakses melalui daftar pelanggan di halaman beranda."
+        }
+    ],
+    "changes": [
+        {
+            "title": "Halaman Tentang",
+            "description": "Diperbarui dengan pemindahan menu 'Aplikasi Kami Lainnya' ke dalam halaman Tentang."
+        }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
     "version": "1.2.8",
     "release_date": "2025-03-10",
     "features": [
