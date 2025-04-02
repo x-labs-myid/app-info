@@ -1,5 +1,23 @@
 [
   {
+    "version": "1.2.10",
+    "release_date": "2025-04-02",
+    "features": [
+        {
+            "title": "Fitur Hubungi Pelanggan",
+            "description": "Fitur ini memudahkan pemilik toko untuk menghubungi pelanggan tanpa perlu menyimpan nomor mereka terlebih dahulu. Pengguna dapat memilih kanal komunikasi seperti telepon, SMS, atau WhatsApp. Saat tombol ditekan, pemilik toko akan langsung diarahkan ke aplikasi yang dipilih."
+        }
+    ],
+    "changes": [],
+    "fixes": [
+        {
+            "title": "Perbaikan Halaman Tentang",
+            "description": "Memperbaiki error yang terjadi pada halaman Tentang."
+        }
+    ],
+    "info": []
+  },
+  {
     "version": "1.2.9",
     "release_date": "2025-03-22",
     "features": [
