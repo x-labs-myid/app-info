@@ -1,5 +1,34 @@
 [
   {
+    "version": "1.2.12",
+    "release_date": "2025-04-06",
+    "features": [],
+    "changes": [
+      {
+        "title": "Tampilan Total Kasbon",
+        "description": "Menambahkan informasi total kasbon yang terformat secara otomatis pada form tambah kasbon untuk mempermudah pemilik toko melihat nominal total kasbon yang ditulis."
+      },
+      {
+        "title": "Format Tanggal dengan Nol di Depan",
+        "description": "Mengatur ulang format tanggal dengan menambahkan angka 0 di depan jika tanggal kurang dari 10 (misal: 01, 02, 03, dst.), dan tetap menggunakan format biasa untuk tanggal 10 ke atas."
+      },
+      {
+        "title": "Pemisahan Menu Aksi Kasbon",
+        "description": "Menu aksi kasbon pada halaman rincian kasbon kini dipisahkan berdasarkan status kasbon (belum lunas dan sudah lunas) agar lebih mudah dikelola."
+      },
+      {
+        "title": "Perbaikan Pesan Dialog Arsip dan Hapus",
+        "description": "Mengatur ulang pesan konfirmasi saat ingin mengarsipkan atau menghapus data kasbon secara permanen agar lebih jelas dan mudah dipahami oleh pengguna."
+      },
+      {
+        "title": "Optimasi Kode Program",
+        "description": "Melakukan pembersihan kode dan penghapusan file atau bagian program yang tidak digunakan untuk meningkatkan performa aplikasi."
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
     "version": "1.2.11",
     "release_date": "2025-04-03",
     "features": [
