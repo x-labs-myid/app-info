@@ -5,6 +5,10 @@
     "features": [],
     "changes": [
       {
+        "title": "Menu Aksi Pembayaran Kasbon",
+        "description": "Menambahkan menu 'Bayar Lunas' dan 'Bayar Angsur (Cicil)' pada menu aksi kasbon di halaman rincian kasbon, sehingga mempermudah pemilik toko dalam memilih metode pelunasan kasbon."
+      },
+      {
         "title": "Tampilan Total Kasbon",
         "description": "Menambahkan informasi total kasbon yang terformat secara otomatis pada form tambah kasbon untuk mempermudah pemilik toko melihat nominal total kasbon yang ditulis."
       },
