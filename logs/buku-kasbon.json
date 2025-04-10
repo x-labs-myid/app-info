@@ -1,5 +1,31 @@
 [
   {
+    "version": "1.2.13",
+    "release_date": "2025-04-10",
+    "features": [],
+    "changes": [
+      {
+        "title": "Perbaikan Tata Letak",
+        "description": "Memperbaiki beberapa bagian tampilan aplikasi yang sebelumnya kurang rapi agar terlihat lebih konsisten dan nyaman digunakan."
+      },
+      {
+        "title": "Pembaruan Ikon dan Splash Screen",
+        "description": "Memperbarui ikon aplikasi dan tampilan splash screen untuk memberikan kesan visual yang lebih segar dan profesional."
+      }
+    ],
+    "fixes": [],
+    "info": [
+      {
+        "title": "Redesain Branding Aplikasi",
+        "description": "Melakukan pembaruan pada elemen branding seperti logo/icon aplikasi untuk tampilan yang lebih modern."
+      },
+      {
+        "title": "Pembaruan di Google Play Store",
+        "description": "Memperbarui banner tangkapan layar (screenshot) dan ikon aplikasi di Google Play Store agar selaras dengan identitas visual terbaru."
+      }
+    ]
+  },
+  {
     "version": "1.2.12",
     "release_date": "2025-04-06",
     "features": [],
