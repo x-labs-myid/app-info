@@ -1,0 +1,246 @@
+[
+  {
+    "version": "1.2.13",
+    "release_date": "2025-04-10",
+    "features": [],
+    "changes": [
+      {
+        "title": "Perbaikan Tata Letak",
+        "description": "Memperbaiki beberapa bagian tampilan aplikasi yang sebelumnya kurang rapi agar terlihat lebih konsisten dan nyaman digunakan."
+      },
+      {
+        "title": "Pembaruan Ikon dan Splash Screen",
+        "description": "Memperbarui ikon aplikasi dan tampilan splash screen untuk memberikan kesan visual yang lebih segar dan profesional."
+      }
+    ],
+    "fixes": [],
+    "info": [
+      {
+        "title": "Redesain Branding Aplikasi",
+        "description": "Melakukan pembaruan pada elemen branding seperti logo/icon aplikasi untuk tampilan yang lebih modern."
+      },
+      {
+        "title": "Pembaruan di Google Play Store",
+        "description": "Memperbarui banner tangkapan layar (screenshot) dan ikon aplikasi di Google Play Store agar selaras dengan identitas visual terbaru."
+      }
+    ]
+  },
+  {
+    "version": "1.2.12",
+    "release_date": "2025-04-06",
+    "features": [],
+    "changes": [
+      {
+        "title": "Menu Aksi Pembayaran Kasbon",
+        "description": "Menambahkan menu 'Bayar Lunas' dan 'Bayar Angsur (Cicil)' pada menu aksi kasbon di halaman rincian kasbon, sehingga mempermudah pemilik toko dalam memilih metode pelunasan kasbon."
+      },
+      {
+        "title": "Tampilan Total Kasbon",
+        "description": "Menambahkan informasi total kasbon yang terformat secara otomatis pada form tambah kasbon untuk mempermudah pemilik toko melihat nominal total kasbon yang ditulis."
+      },
+      {
+        "title": "Format Tanggal dengan Nol di Depan",
+        "description": "Mengatur ulang format tanggal dengan menambahkan angka 0 di depan jika tanggal kurang dari 10 (misal: 01, 02, 03, dst.), dan tetap menggunakan format biasa untuk tanggal 10 ke atas."
+      },
+      {
+        "title": "Pemisahan Menu Aksi Kasbon",
+        "description": "Menu aksi kasbon pada halaman rincian kasbon kini dipisahkan berdasarkan status kasbon (belum lunas dan sudah lunas) agar lebih mudah dikelola."
+      },
+      {
+        "title": "Perbaikan Pesan Dialog Arsip dan Hapus",
+        "description": "Mengatur ulang pesan konfirmasi saat ingin mengarsipkan atau menghapus data kasbon secara permanen agar lebih jelas dan mudah dipahami oleh pengguna."
+      },
+      {
+        "title": "Optimasi Kode Program",
+        "description": "Melakukan pembersihan kode dan penghapusan file atau bagian program yang tidak digunakan untuk meningkatkan performa aplikasi."
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
+    "version": "1.2.11",
+    "release_date": "2025-04-03",
+    "features": [
+        {
+            "title": "Bayar Lunas",
+            "description": "Kini Anda dapat melunasi kasbon dengan lebih mudah! Dengan fitur ini, pemilik toko tidak perlu menginput sisa pembayaran secara manual. Cukup tekan tombol 'Bayar Lunas', dan sistem akan otomatis menyelesaikan kasbon sesuai dengan nominal yang tersisa."
+        }
+    ],
+    "changes": [
+        {
+            "title": "Informasi Waktu pada Item Kasbon",
+            "description": "Ditambahkan informasi waktu pada setiap item kasbon di halaman rincian kasbon, sehingga pemilik toko dapat melihat kapan pelanggan melakukan atau mengajukan kasbon ke toko."
+        }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
+    "version": "1.2.10",
+    "release_date": "2025-04-02",
+    "features": [
+        {
+            "title": "Fitur Hubungi Pelanggan",
+            "description": "Fitur ini memudahkan pemilik toko untuk menghubungi pelanggan tanpa perlu menyimpan nomor mereka terlebih dahulu. Pengguna dapat memilih kanal komunikasi seperti telepon, SMS, atau WhatsApp. Saat tombol ditekan, pemilik toko akan langsung diarahkan ke aplikasi yang dipilih."
+        }
+    ],
+    "changes": [],
+    "fixes": [
+        {
+            "title": "Perbaikan Halaman Tentang",
+            "description": "Memperbaiki error yang terjadi pada halaman Tentang."
+        }
+    ],
+    "info": []
+  },
+  {
+    "version": "1.2.9",
+    "release_date": "2025-03-22",
+    "features": [
+        {
+            "title": "Bagikan Rincian Kasbon",
+            "description": "Fitur ini memungkinkan Anda membagikan ringkasan rincian kasbon dalam bentuk gambar, sehingga lebih mudah dikirim langsung ke pelanggan. Dengan begitu, pelanggan dapat dengan cepat mengetahui jumlah kasbon mereka di toko Anda. Menu ini dapat diakses melalui daftar pelanggan di halaman beranda."
+        }
+    ],
+    "changes": [
+        {
+            "title": "Halaman Tentang",
+            "description": "Diperbarui dengan pemindahan menu 'Aplikasi Kami Lainnya' ke dalam halaman Tentang."
+        }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
+    "version": "1.2.8",
+    "release_date": "2025-03-10",
+    "features": [
+      {
+        "title": "Penambahan Menu 'Apa yang Baru?'",
+        "description": "Menu ini berfungsi untuk memberi tahu pengguna tentang pembaruan yang telah dilakukan pada setiap versi aplikasi."
+      }
+    ],
+    "changes": [],
+    "fixes": [
+      {
+        "title": "Konfirmasi menutup aplikasi",
+        "description": "Jika tombol Back ditekan dua kali atau lebih dalam waktu bersamaan ketika di halaman Beranda, sebuah dialog konfirmasi akan muncul untuk menanyakan apakah Anda ingin menutup aplikasi."
+      }, {
+        "title": "Perbaikan Tampilan",
+        "description": "Sedikit perbaikan tampilan di halaman pengaturan dan beranda."
+      }
+    ],
+    "info": []
+  },
+  {
+    "version": "1.2.7",
+    "release_date": "2025-03-09",
+    "features": [],
+    "changes": [
+      {
+        "title": "Memisahkan kasbon Lunas dan Belum Lunas",
+        "description": "Penambahan tampilan tab pada halaman Rincian Kasbon untuk memisahkan daftar kasbon yang sudah lunas dan yang belum lunas."
+      }
+    ],
+    "fixes": [],
+    "info": []
+  }, 
+  {
+    "version": "1.2.6",
+    "release_date": "2025-02-10",
+    "features": [
+      {
+        "title": "Riwayat pembayaran kasbon",
+        "description": "Menu ini dapat di akses melalui halaman rincian kasbon, tap pada salah satu item kasbon, di sana ada muncul menu baru dengan nama Riwayat Pembayaran"
+      }
+    ],
+    "changes": [],
+    "fixes": [],
+    "info": []
+  }, 
+  {
+    "version": "1.2.5",
+    "release_date": "2025-01-29",
+    "features": [
+     
+    ],
+    "changes": [
+       {
+        "title": "Tampilan Antar muka",
+        "description": "Perbaikan tampilan antar muka aplikasi agar terlihat lebih rapih dan mudah di gunakan pengguna"
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
+    "version": "1.2.4",
+    "release_date": "2025-01-29",
+    "features": [
+     
+    ],
+    "changes": [
+       {
+        "title": "Tampilan Antar muka",
+        "description": "Perbaikan tampilan antar muka aplikasi agar terlihat lebih rapih dan mudah di gunakan pengguna"
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
+    "version": "1.2.3",
+    "release_date": "2025-01-11",
+    "features": [
+     
+    ],
+    "changes": [
+       {
+        "title": "Tampilan Antar muka",
+        "description": "Perbaikan tampilan antar muka aplikasi agar terlihat lebih rapih dan mudah di gunakan pengguna"
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
+    "version": "1.2.2",
+    "release_date": "2024-12-21",
+    "features": [],
+    "changes": [],
+    "fixes": [
+      {
+        "title": "Perbaikan Error atau Bugs",
+        "description": "Memperbaiki kesalahan dalam perhitungan atau kalkulasi kasbon"
+      }
+    ],
+    "info": []
+  },
+  {
+    "version": "1.2.0",
+    "release_date": "2024-11-11",
+    "features": [],
+    "changes": [],
+    "fixes": [
+      {
+        "title": "Perbaikan Error atau Bugs",
+        "description": "Memperbaiki kesalahan dalam perhitungan atau kalkulasi kasbon"
+      }
+    ],
+    "info": []
+  },
+  {
+    "version": "1.0.0",
+    "release_date": "2024-04-14",
+    "features": [],
+    "changes": [],
+    "fixes": [],
+    "info": [
+      {
+        "title": "Diluncurkan",
+        "description": "Pertama kali di luncurkan"
+      }
+    ]
+  }
+]

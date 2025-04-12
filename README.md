@@ -1,2 +1,2 @@
-# app-logo
-All icons of the application we developed
+# app info
+All info of the application we developed
