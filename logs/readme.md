@@ -17,27 +17,27 @@ Berikut adalah API logs Aplikasi yang tersedia.
   </thead>
   <tbody>
     <tr>
-      <td>Backlog</td>
+      <td>Backlog (Dalam Daftar Tunggu)</td>
       <td>Ide atau permintaan fitur yang telah diterima namun belum direncanakan untuk pengembangan.</td>
     </tr>
     <tr>
-      <td>Pending</td>
+      <td>Pending (Tertunda)</td>
       <td>Fitur yang telah direncanakan namun menunggu pemenuhan prasyarat sebelum dapat dijadwalkan.</td>
     </tr>
     <tr>
-      <td>Planned</td>
+      <td>Planned (Direncanakan)</td>
       <td>Fitur yang telah direncanakan dan dijadwalkan untuk dikembangkan.</td>
     </tr>
     <tr>
-      <td>In Progress</td>
+      <td>In Progress (Sedang Dikerjakan)</td>
       <td>Fitur yang sedang dalam tahap pengembangan aktif.</td>
     </tr>
     <tr>
-      <td>On Hold</td>
+      <td>On Hold (Ditunda Sementara)</td>
       <td>Fitur yang pengembangannya ditangguhkan sementara karena alasan tertentu.</td>
     </tr>
     <tr>
-      <td>Released</td>
+      <td>Released (Dirilis)</td>
       <td>Fitur yang telah selesai dikembangkan dan dirilis ke pengguna.</td>
     </tr>
   </tbody>
