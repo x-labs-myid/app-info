@@ -12,33 +12,41 @@ Berikut adalah API logs Aplikasi yang tersedia.
   <thead>
     <tr>
       <th>Status</th>
+      <th>Warna&nbsp;Teks/Ikon</th>
       <th>Deskripsi</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Backlog (Dalam Daftar Tunggu)</td>
-      <td>Ide atau permintaan fitur yang telah diterima namun belum direncanakan untuk pengembangan.</td>
+      <td>Dalam Daftar Tunggu&nbsp;(Backlog)</td>
+      <td style="color:#9E9E9E">#9E9E9E (abu‑abu netral)</td>
+      <td>Ide atau fitur telah dicatat tetapi belum dijadwalkan untuk pengerjaan.</td>
     </tr>
     <tr>
-      <td>Pending (Tertunda)</td>
-      <td>Fitur yang telah direncanakan namun menunggu pemenuhan prasyarat sebelum dapat dijadwalkan.</td>
+      <td>Tertunda&nbsp;(Pending)</td>
+      <td style="color:#FF9800">#FF9800 (oranye)</td>
+      <td>Menunggu terpenuhinya prasyarat sebelum bisa dijadwalkan.</td>
     </tr>
     <tr>
-      <td>Planned (Direncanakan)</td>
-      <td>Fitur yang telah direncanakan dan dijadwalkan untuk dikembangkan.</td>
+      <td>Direncanakan&nbsp;(Planned)</td>
+      <td style="color:#2196F3">#2196F3 (biru)</td>
+      <td>Telah dijadwalkan untuk dikerjakan pada siklus tertentu.</td>
     </tr>
     <tr>
-      <td>In Progress (Sedang Dikerjakan)</td>
-      <td>Fitur yang sedang dalam tahap pengembangan aktif.</td>
+      <td>Sedang Dikerjakan&nbsp;(In&nbsp;Progress)</td>
+      <td style="color:#E91E63">#E91E63 (merah muda / magenta)</td>
+      <td>Sedang dalam proses pengembangan aktif.</td>
     </tr>
     <tr>
-      <td>On Hold (Ditunda Sementara)</td>
-      <td>Fitur yang pengembangannya ditangguhkan sementara karena alasan tertentu.</td>
+      <td>Ditunda Sementara&nbsp;(On Hold)</td>
+      <td style="color:#795548">#795548 (cokelat tua)</td>
+      <td>Pengerjaan dihentikan sementara karena alasan tertentu.</td>
     </tr>
     <tr>
-      <td>Released (Dirilis)</td>
-      <td>Fitur yang telah selesai dikembangkan dan dirilis ke pengguna.</td>
+      <td>Dirilis&nbsp;(Released)</td>
+      <td style="color:#4CAF50">#4CAF50 (hijau)</td>
+      <td>Fitur telah selesai dan dipublikasikan ke pengguna.</td>
     </tr>
   </tbody>
 </table>
+
