@@ -1,1 +1,34 @@
-
+[
+  {
+    "title": "Buku Kasbon Plus",
+    "description": "Merilis versi premium berbayar untuk menghapus semua iklan di dalam aplikasi.",
+    "status": "Dalam Daftar Tunggu",
+    "color": "#9E9E9E",
+    "note": null,
+    "target": null
+  },
+  {
+    "title": "Pembayaran Global",
+    "description": "Memungkinkan Anda melunasi beberapa item kasbon sekaligus tanpa perlu memilih satu per satu. Contoh: jika pelanggan memiliki tiga kasbon dengan total Rp70.000, cukup masukkan nominal Rp70.000 dan ketiga kasbon otomatis dianggap lunas.",
+    "status": "Planned",
+    "color": "#2196F3",
+    "note": null,
+    "target": null
+  },
+  {
+    "title": "Backup dan Restore",
+    "description": "Memungkinkan Anda membuat cadangan (backup) data kasbon di perangkat serta memulihkannya (restore) dari berkas cadangan yang tersedia.",
+    "status": "Dalam Daftar Tunggu",
+    "color": "#9E9E9E",
+    "note": null,
+    "target": null
+  },
+  {
+    "title": "Konfirmasi Keluar Aplikasi",
+    "description": "Saat berada di halaman Beranda, tekan tombol Back dua kali untuk menampilkan pop‑up konfirmasi sebelum keluar dari aplikasi.",
+    "status": "Dirilis",
+    "color": "#4CAF50",
+    "note": null,
+    "target": null
+  }
+]
