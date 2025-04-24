@@ -1,5 +1,18 @@
 [
   {
+  "version": "1.2.14",
+  "release_date": "2025-04-24",
+  "features": [],
+  "changes": [
+    {
+      "title": "Pembaruan Halaman 'Apa yang Baru?'",
+      "description": "Halaman 'Apa yang Baru?' kini memiliki dua tab: 'Catatan Perubahan' untuk menampilkan daftar pembaruan tiap versi, dan 'Fitur Mendatang' berisi rencana fitur yang akan dikembangkan. Masukan pengguna dari ulasan Google Play maupun email akan dipertimbangkan dan ditampilkan pada tab Fitur Mendatang."
+    }
+  ],
+  "fixes": [],
+  "info": []
+},
+  {
     "version": "1.2.13",
     "release_date": "2025-04-10",
     "features": [],
