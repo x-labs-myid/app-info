@@ -1,9 +1,9 @@
 [
   {
     "title": "Multi Currency",
-    "description": "Menambah dukungan untuk mata uang lain selain rupiah",
-    "status": "Dalam Daftar Tunggu",
-    "bg": "#9E9E9E",
+    "description": "Menambah dukungan untuk mata uang lain selain rupiah (Hanya untuk negara ASEAN)",
+    "status": "Sedang Dikerjakan",
+    "bg": "#E91E63",
     "color": "#FFFFFF",
     "note": null,
     "target": null
