@@ -1,7 +1,7 @@
 [
   {
-    "title": "Multi Currency dan Multi Bahasa",
-    "description": "Menambah dukungan untuk mata uang lain selain rupiah, juga menambahkan dukungan bahasa di luar bahasa indonesia",
+    "title": "Multi Currency",
+    "description": "Menambah dukungan untuk mata uang lain selain rupiah",
     "status": "Dalam Daftar Tunggu",
     "bg": "#9E9E9E",
     "color": "#FFFFFF",
