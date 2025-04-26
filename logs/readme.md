@@ -47,6 +47,11 @@ Berikut adalah API logs Aplikasi yang tersedia.
       <td style="color:#4CAF50">#4CAF50 (hijau)</td>
       <td>Fitur telah selesai dan dipublikasikan ke pengguna.</td>
     </tr>
+    <tr>
+      <td>Dibatalkan&nbsp;(Canceled)</td>
+      <td style="color: #ff0000;">#ff0000 (merah)</td>
+      <td>Rencana dan Pengerjaan dibatalkan secara penuh.</td>
+    </tr>
   </tbody>
 </table>
 
