@@ -1,5 +1,14 @@
 [
   {
+    "title": "Multi Currency dan Multi Bahasa",
+    "description": "Menambah dukungan untuk mata uang lain selain rupiah, juga menambahkan dukungan bahasa di luar bahasa indonesia",
+    "status": "Dalam Daftar Tunggu",
+    "bg": "#9E9E9E",
+    "color": "#FFFFFF",
+    "note": null,
+    "target": null
+  },
+  {
     "title": "Buku Kasbon Plus",
     "description": "Merilis versi premium berbayar untuk menghapus semua iklan di dalam aplikasi.",
     "status": "Dalam Daftar Tunggu",
