@@ -20,10 +20,10 @@
   {
     "title": "Pembayaran Global",
     "description": "Memungkinkan Anda melunasi beberapa item kasbon sekaligus tanpa perlu memilih satu per satu. Contoh: jika pelanggan memiliki tiga kasbon dengan total Rp70.000, cukup masukkan nominal Rp70.000 dan ketiga kasbon otomatis dianggap lunas.",
-    "status": "Direncanakan",
-    "bg": "#2196F3",
+    "status": "Ditunda",
+    "bg": "#795548",
     "color": "#FFFFFF",
-    "note": null,
+    "note": "Fitur ini serupa dengan fitur 'Bayar Lunas', dan fitur ini sudah di rilis pada 03 april 2024 di versi 1.2.11.",
     "target": null
   },
   {
