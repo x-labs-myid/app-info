@@ -12,9 +12,18 @@
       {
         "title": "Penyegaran Tampilan Halaman 'Setup'",
         "description": "Memperbarui gaya tampilan pada halaman 'Setup', juga menambahkan konfigurasi Mata Uang saat pertama kali menggunakan aplikasi."
+      },
+      {
+        "title": "Penyegaran Tampilan Halaman 'Beranda'",
+        "description": "Memperbarui gaya tampilan di halaman "Beranda", menambahkan informasi toko dan mata uang, serta memindahkan informasi hari dan tanggal ke menu sidedrawer."
       }
     ],
-    "fixes": [],
+    "fixes": [
+      {
+        "title": "Menerapkan Pengaturan",
+        "description": "Saat Anda mengubah pengaturan, Anda tidak perlu memuat ulang aplikasi. Setelah pengaturan disimpan, perubahan akan diterapkan secara otomatis."
+      }
+    ],
     "info": []
   },
   {
