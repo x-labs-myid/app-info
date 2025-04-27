@@ -4,7 +4,7 @@
     "release_date": "2025-04-27",
     "features": [
       {
-        "title": "Pengaturan Mata Uang",
+        "title": "Multi Currency",
         "description": "Menambahkan fitur pengaturan mata uang, khusus untuk negara-negara ASEAN. Pengguna dapat memilih mata uang sesuai dengan negara asalnya melalui pengaturan aplikasi."
       }
     ],
