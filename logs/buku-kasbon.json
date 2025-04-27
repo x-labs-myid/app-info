@@ -15,7 +15,7 @@
       },
       {
         "title": "Penyegaran Tampilan Halaman 'Beranda'",
-        "description": "Memperbarui gaya tampilan di halaman "Beranda", menambahkan informasi toko dan mata uang, serta memindahkan informasi hari dan tanggal ke menu sidedrawer."
+        "description": "Memperbarui gaya tampilan di halaman 'Beranda', menambahkan informasi toko dan mata uang, serta memindahkan informasi hari dan tanggal ke menu sidedrawer."
       }
     ],
     "fixes": [
