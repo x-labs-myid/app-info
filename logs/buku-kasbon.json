@@ -1,5 +1,26 @@
 [
   {
+    "version": "1.3.1",
+    "release_date": "2025-05-14",
+    "features": [],
+    "changes": [
+      {
+        "title": "Informasi Sisa Kasbon Lebih Lengkap",
+        "description": "Menambahkan informasi total sisa kasbon pada ringkasan kasbon di halaman rincian kasbon, serta menampilkan sisa kasbon di setiap entri pada tabel kasbon."
+      },
+      {
+        "title": "Perbaikan Kalimat pada Halaman Hubungi Pelanggan",
+        "description": "Memperbaiki kata-kata yang digunakan pada halaman Hubungi Pelanggan agar lebih mudah dipahami dan konsisten dengan gaya bahasa aplikasi."
+      },
+      {
+        "title": "Tombol Tampilkan/Sembunyikan Ringkasan Kasbon",
+        "description": "Menambahkan tombol untuk menutup atau membuka ringkasan kasbon di halaman rincian kasbon. Ketika ditutup, area tampilan tabel kasbon menjadi lebih luas sehingga memudahkan pengguna melihat data."
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
     "version": "1.3.0",
     "release_date": "2025-04-27",
     "features": [
