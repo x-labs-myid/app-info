@@ -6,7 +6,7 @@
     "bg": "#4CAF50",
     "color": "#FFFFFF",
     "note": "Sudah dirilis pada 27 April 2025 di versi 1.3.0.",
-    "target": null
+    "target": "K2 2025"
   },
   {
     "title": "Buku Kasbon Plus",
@@ -14,7 +14,7 @@
     "status": "Dalam Daftar Tunggu",
     "bg": "#9E9E9E",
     "color": "#FFFFFF",
-    "note": null,
+    "note": "Dalam pertimbangan",
     "target": null
   },
   {
@@ -29,11 +29,11 @@
   {
     "title": "Backup dan Restore",
     "description": "Memungkinkan Anda membuat cadangan (backup) data kasbon di perangkat serta memulihkannya (restore) dari berkas cadangan yang tersedia.",
-    "status": "Dalam Daftar Tunggu",
-    "bg": "#9E9E9E",
+    "status": "Direncanakan",
+    "bg": "#2196F3",
     "color": "#FFFFFF",
-    "note": null,
-    "target": null
+    "note": "Akan mulai proses pengerjaan pada akhir K3 2025",
+    "target": K4 2025
   },
   {
     "title": "Konfirmasi Keluar Aplikasi",
