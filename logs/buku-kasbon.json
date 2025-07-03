@@ -1,5 +1,18 @@
 [
   {
+    "version": "1.4.0",
+    "release_date": "2025-07-04",
+    "features": [],
+    "changes": [
+      {
+        "title": "Mengatur Tanggal Kasbon",
+        "description": "Menambahkan opsi untuk mengatur tanggal kasbon secara manual, dengan default otomatis ke tanggal hari ini."
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
     "version": "1.3.2",
     "release_date": "2025-06-04",
     "features": [],
