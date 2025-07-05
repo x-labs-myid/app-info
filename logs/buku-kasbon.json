@@ -1,5 +1,23 @@
 [
   {
+    "version": "1.4.1",
+    "release_date": "2025-07-06",
+    "features": [
+      {
+        "title": "Pencarian Rincian Kasbon",
+        "description": "Menambahkan fitur pencarian untuk mencari kasbon pada halaman rincian kasbon"
+      }
+    ],
+    "changes": [
+      {
+        "title": "Tampilan Rincian Kasbon",
+        "description": "Mendesain ulang daftar kasbon pada halaman rincian kasbon"
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
     "version": "1.4.0",
     "release_date": "2025-07-04",
     "features": [],
