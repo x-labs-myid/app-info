@@ -1,5 +1,18 @@
 [
   {
+    "version": "1.4.2",
+    "release_date": "2025-07-07",
+    "features": [],
+    "changes": [
+      {
+        "title": "Penyesuaian format tanggal kasbon",
+        "description": "Penyesuaian format dan informasi saat memilih tanggal kasbon"
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
     "version": "1.4.1",
     "release_date": "2025-07-06",
     "features": [
