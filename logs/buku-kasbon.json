@@ -1,12 +1,16 @@
 [
   {
-    "version": "1.4.2",
+    "version": "1.4.5",
     "release_date": "2025-07-07",
     "features": [],
     "changes": [
       {
         "title": "Penyesuaian format tanggal kasbon",
         "description": "Penyesuaian format dan informasi saat memilih tanggal kasbon"
+      },
+      {
+        "title": "Mengatur Tanggal Bayar Kasbon",
+        "description": "Menambahkan opsi untuk mengatur tanggal bayar kasbon secara manual, dengan default otomatis ke tanggal hari ini."
       }
     ],
     "fixes": [],
