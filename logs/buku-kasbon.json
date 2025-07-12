@@ -1,5 +1,27 @@
 [
   {
+    "version": "1.4.6",
+    "release_date": "2025-07-14",
+    "features": [
+      {
+        "title": "Tab Arsip di Rincian Kasbon",
+        "description": "Menambahkan tab Arsip pada halaman Rincian Kasbon untuk memudahkan pemindahan data kasbon ke arsip maupun sebaliknya."
+      }
+    ],
+    "changes": [
+      {
+        "title": "Tampilan Baru Rincian Kasbon",
+        "description": "Mengoptimalkan desain antarmuka pada halaman Rincian Kasbon agar lebih intuitif dan mudah digunakan."
+      },
+      {
+        "title": "Pesan Informasi Arsip",
+        "description": "Menambahkan pesan informasi arsip yang dapat ditampilkan atau disembunyikan sesuai kebutuhan pengguna."
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
     "version": "1.4.5",
     "release_date": "2025-07-07",
     "features": [],
