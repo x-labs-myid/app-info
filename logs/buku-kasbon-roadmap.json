@@ -1,5 +1,32 @@
 [
   {
+    "title": "Laporan PDF",
+    "description": "Laporan dalam bentuk PDF dan dapat dikirim langsung ke Nomor WhatsApp pelanggan atau yang lainnya.",
+    "status": "Direncanakan",
+    "bg": "#2196F3",
+    "color": "#FFFFFF",
+    "note": "Akan mulai proses pengerjaan pada agustus 2025",
+    "target": "K3 2025"
+  },
+  {
+    "title": "Pembayaran Global (pembayaran kolektif)",
+    "description": "Memungkinkan Anda melunasi beberapa item kasbon sekaligus tanpa perlu memilih satu per satu. Contoh: jika pelanggan memiliki tiga kasbon dengan total Rp70.000, cukup masukkan nominal Rp70.000 dan ketiga kasbon otomatis dianggap lunas.",
+    "status": "Direncanakan",
+    "bg": "#2196F3",
+    "color": "#FFFFFF",
+    "note": "Akan mulai proses pengerjaan pada agustus-september 2025",
+    "target": "K3 2025"
+  },
+  {
+    "title": "Backup dan Restore",
+    "description": "Memungkinkan Anda membuat cadangan (backup) data kasbon di perangkat serta memulihkannya (restore) dari berkas cadangan yang tersedia.",
+    "status": "Direncanakan",
+    "bg": "#2196F3",
+    "color": "#FFFFFF",
+    "note": "Akan mulai proses pengerjaan pada akhir K3 2025",
+    "target": "K4 2025"
+  },
+  {
     "title": "Multi Currency",
     "description": "Menambah dukungan untuk mata uang lain selain rupiah (Khusus untuk negara-negara ASEAN)",
     "status": "Dirilis",
@@ -16,24 +43,6 @@
     "color": "#FFFFFF",
     "note": "Dalam pertimbangan",
     "target": null
-  },
-  {
-    "title": "Pembayaran Global",
-    "description": "Memungkinkan Anda melunasi beberapa item kasbon sekaligus tanpa perlu memilih satu per satu. Contoh: jika pelanggan memiliki tiga kasbon dengan total Rp70.000, cukup masukkan nominal Rp70.000 dan ketiga kasbon otomatis dianggap lunas.",
-    "status": "Ditunda",
-    "bg": "#795548",
-    "color": "#FFFFFF",
-    "note": "Fitur ini serupa dengan fitur 'Bayar Lunas', dan telah dirilis pada 3 April 2025 di versi 1.2.11.",
-    "target": null
-  },
-  {
-    "title": "Backup dan Restore",
-    "description": "Memungkinkan Anda membuat cadangan (backup) data kasbon di perangkat serta memulihkannya (restore) dari berkas cadangan yang tersedia.",
-    "status": "Direncanakan",
-    "bg": "#2196F3",
-    "color": "#FFFFFF",
-    "note": "Akan mulai proses pengerjaan pada akhir K3 2025",
-    "target": "K4 2025"
   },
   {
     "title": "Konfirmasi Keluar Aplikasi",
