@@ -1,5 +1,22 @@
 [
   {
+    "version": "1.4.7",
+    "release_date": "2025-07-26",
+    "features": [],
+    "changes": [
+      {
+        "title": "Perbaikan Gaya Tampilan Aplikasi",
+        "description": "Meningkatkan antarmuka pengguna untuk memberikan pengalaman penggunaan yang lebih nyaman dan intuitif."
+      },
+      {
+        "title": "Optimasi Performa",
+        "description": "Melakukan peningkatan performa agar aplikasi dapat berjalan lebih cepat dan efisien."
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
     "version": "1.4.6",
     "release_date": "2025-07-14",
     "features": [
