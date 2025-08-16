@@ -1,5 +1,18 @@
 [
   {
+    "version": "1.5.1",
+    "release_date": "2025-08-17",
+    "features": [],
+    "changes": [
+      {
+        "title": "Bagikan Kasbon PDF",
+        "description": "Mengubah ringkasan kasbon pelanggan yang sebelumnya dibagikan dalam bentuk gambar menjadi PDF agar lebih praktis dan efektif."
+      },
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
     "version": "1.4.7",
     "release_date": "2025-07-26",
     "features": [],
