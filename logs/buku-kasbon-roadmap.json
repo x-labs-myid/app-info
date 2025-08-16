@@ -1,11 +1,11 @@
 [
   {
     "title": "Laporan PDF",
-    "description": "Laporan dalam bentuk PDF dan dapat dikirim langsung ke Nomor WhatsApp pelanggan atau yang lainnya.",
-    "status": "Direncanakan",
-    "bg": "#2196F3",
+    "description": "Laporan ringkasan kasbon dalam bentuk PDF dan dapat dikirim langsung ke Nomor WhatsApp pelanggan atau yang lainnya.",
+    "status": "Dirilis",
+    "bg": "#4CAF50",
     "color": "#FFFFFF",
-    "note": "Akan mulai proses pengerjaan pada agustus 2025",
+    "note": "Sudah dirilis pada 17 Agustus 2025 di versi 1.5.1.",
     "target": "K3 2025"
   },
   {
