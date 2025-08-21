@@ -1,5 +1,41 @@
 [
   {
+    "title": "Buku Kasbon Hybrid",
+    "description": "Aplikasi Buku Kasbon Hybrid memungkinkan pengguna tetap dapat mengelola kasbon tanpa koneksi internet. Data akan disimpan sementara di perangkat, lalu otomatis tersinkronisasi ke Cloud saat koneksi internet tersedia.",
+    "status": "Dalam Daftar Tunggu",
+    "bg": "#9E9E9E",
+    "color": "#FFFFFF",
+    "note": "Masih dalam pertimbangan, menunggu masukan dari pengguna lain",
+    "target": null
+  },
+  {
+    "title": "Backup & Restore",
+    "description": "Memungkinkan pengguna membuat cadangan (backup) data kasbon di perangkat, serta memulihkannya (restore) dari berkas cadangan yang tersedia.",
+    "status": "Direncanakan",
+    "bg": "#2196F3",
+    "color": "#FFFFFF",
+    "note": "Proses pengerjaan direncanakan dimulai akhir Kuartal 3 2025",
+    "target": "Kuartal 4 2025"
+  },
+  {
+    "title": "Buku Kasbon Remove Ads",
+    "description": "Berdasarkan masukan pengguna melalui email dan ulasan di Google Play Store, kami akan merilis versi berbayar untuk menghapus semua iklan di dalam aplikasi.",
+    "status": "Direncanakan",
+    "bg": "#2196F3",
+    "color": "#FFFFFF",
+    "note": "Proses pengerjaan direncanakan dimulai akhir Kuartal 3 2025",
+    "target": "Kuartal 4 2025"
+  },
+  {
+    "title": "Pembayaran Global (pembayaran kolektif)",
+    "description": "Memungkinkan Anda melunasi beberapa item kasbon sekaligus tanpa perlu memilih satu per satu. Contoh: jika pelanggan memiliki tiga kasbon dengan total Rp70.000, cukup masukkan nominal Rp70.000 dan ketiga kasbon otomatis dianggap lunas.",
+    "status": "Dirilis",
+    "bg": "#4CAF50",
+    "color": "#FFFFFF",
+    "note": "Dirilis pada 25 Agustus 2025 di versi 1.6.0",
+    "target": "K3 2025"
+  },
+  {
     "title": "Laporan PDF",
     "description": "Laporan ringkasan kasbon dalam bentuk PDF dan dapat dikirim langsung ke Nomor WhatsApp pelanggan atau yang lainnya.",
     "status": "Dirilis",
@@ -9,24 +45,6 @@
     "target": "K3 2025"
   },
   {
-    "title": "Pembayaran Global (pembayaran kolektif)",
-    "description": "Memungkinkan Anda melunasi beberapa item kasbon sekaligus tanpa perlu memilih satu per satu. Contoh: jika pelanggan memiliki tiga kasbon dengan total Rp70.000, cukup masukkan nominal Rp70.000 dan ketiga kasbon otomatis dianggap lunas.",
-    "status": "Direncanakan",
-    "bg": "#2196F3",
-    "color": "#FFFFFF",
-    "note": "Akan mulai proses pengerjaan pada agustus-september 2025",
-    "target": "K3 2025"
-  },
-  {
-    "title": "Backup dan Restore",
-    "description": "Memungkinkan Anda membuat cadangan (backup) data kasbon di perangkat serta memulihkannya (restore) dari berkas cadangan yang tersedia.",
-    "status": "Direncanakan",
-    "bg": "#2196F3",
-    "color": "#FFFFFF",
-    "note": "Akan mulai proses pengerjaan pada akhir K3 2025",
-    "target": "K4 2025"
-  },
-  {
     "title": "Multi Currency",
     "description": "Menambah dukungan untuk mata uang lain selain rupiah (Khusus untuk negara-negara ASEAN)",
     "status": "Dirilis",
@@ -34,15 +52,6 @@
     "color": "#FFFFFF",
     "note": "Sudah dirilis pada 27 April 2025 di versi 1.3.0.",
     "target": "K2 2025"
-  },
-  {
-    "title": "Buku Kasbon Plus",
-    "description": "Merilis versi premium berbayar untuk menghapus semua iklan di dalam aplikasi.",
-    "status": "Dalam Daftar Tunggu",
-    "bg": "#9E9E9E",
-    "color": "#FFFFFF",
-    "note": "Dalam pertimbangan",
-    "target": null
   },
   {
     "title": "Konfirmasi Keluar Aplikasi",
