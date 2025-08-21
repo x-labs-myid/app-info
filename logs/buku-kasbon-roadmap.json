@@ -5,7 +5,7 @@
     "status": "Dalam Daftar Tunggu",
     "bg": "#9E9E9E",
     "color": "#FFFFFF",
-    "note": "Masih dalam pertimbangan, menunggu masukan dari pengguna lain",
+    "note": "Masih dalam pertimbangan, menunggu masukan dari pengguna lain.",
     "target": null
   },
   {
@@ -14,7 +14,7 @@
     "status": "Direncanakan",
     "bg": "#2196F3",
     "color": "#FFFFFF",
-    "note": "Proses pengerjaan direncanakan dimulai akhir Kuartal 3 2025",
+    "note": "Proses pengerjaan direncanakan dimulai akhir Kuartal 3 2025.",
     "target": "Kuartal 4 2025"
   },
   {
@@ -23,7 +23,7 @@
     "status": "Direncanakan",
     "bg": "#2196F3",
     "color": "#FFFFFF",
-    "note": "Proses pengerjaan direncanakan dimulai akhir Kuartal 3 2025",
+    "note": "Proses pengerjaan direncanakan dimulai akhir Kuartal 3 2025.",
     "target": "Kuartal 4 2025"
   },
   {
@@ -32,7 +32,7 @@
     "status": "Dirilis",
     "bg": "#4CAF50",
     "color": "#FFFFFF",
-    "note": "Dirilis pada 25 Agustus 2025 di versi 1.6.0",
+    "note": "Dirilis pada 25 Agustus 2025 di versi 1.6.0.",
     "target": "K3 2025"
   },
   {
