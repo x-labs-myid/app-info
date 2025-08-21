@@ -1,5 +1,23 @@
 [
   {
+    "version": "1.6.0",
+    "release_date": "2025-08-25",
+    "features": [
+      {
+        "title": "Bayar Kasbon Kolektif",
+        "description": "Memungkinkan pengguna membayar kasbon sekaligus tanpa memilih satu per satu. Cukup masukkan total pembayaran, maka beberapa kasbon akan otomatis terbayarkan."
+      }
+    ],
+    "changes": [
+      {
+        "title": "Tata Letak Rincian Kasbon",
+        "description": "Menyempurnakan tata letak pada halaman rincian kasbon agar lebih rapi, mudah dipahami, dan nyaman digunakan."
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
     "version": "1.5.1",
     "release_date": "2025-08-17",
     "features": [],
