@@ -12,6 +12,14 @@
       {
         "title": "Tata Letak Rincian Kasbon",
         "description": "Menyempurnakan tata letak pada halaman rincian kasbon agar lebih rapi, mudah dipahami, dan nyaman digunakan."
+      },
+      {
+        "title": "Booting Cepat",
+        "description": "Menambahkan pengaturan booting cepat untuk mempercepat proses masuk ke dalam aplikasi dengan cara mematikan animasi saat aplikasi pertama kali dibuka."
+      },
+      {
+        "title": "Akses Cepat 'Buat Kasbon Baru'",
+        "description": "Menambahkan akses cepat untuk membuka 'form buat kasbon baru' langsung dari halaman beranda."
       }
     ],
     "fixes": [],
