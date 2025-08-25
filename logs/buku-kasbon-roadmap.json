@@ -18,7 +18,7 @@
     "target": "Kuartal 4 2025"
   },
   {
-    "title": "Buku Kasbon Remove Ads",
+    "title": "Hapus Iklan",
     "description": "Berdasarkan masukan pengguna melalui email dan ulasan di Google Play Store, kami akan merilis versi berbayar untuk menghapus semua iklan di dalam aplikasi.",
     "status": "Direncanakan",
     "bg": "#2196F3",
@@ -32,7 +32,7 @@
     "status": "Dirilis",
     "bg": "#4CAF50",
     "color": "#FFFFFF",
-    "note": "Dirilis pada 25 Agustus 2025 di versi 1.6.0.",
+    "note": "Dirilis pada 25 Agustus 2025 di versi 1.6.0 build 127.",
     "target": "K3 2025"
   },
   {
