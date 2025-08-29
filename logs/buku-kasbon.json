@@ -3,13 +3,13 @@
     "version": "1.6.2",
     "release_date": "2025-08-28",
     "features": [],
-    "changes": [
+    "changes": [],
+    "fixes": [
       {
         "title": "Keamanan dan Performa",
         "description": "Peningkatan keamanan serta optimasi performa aplikasi."
       }
     ],
-    "fixes": [],
     "info": []
   },
   {
