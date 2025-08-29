@@ -1,5 +1,18 @@
 [
   {
+    "version": "1.6.2",
+    "release_date": "2025-08-28",
+    "features": [],
+    "changes": [
+      {
+        "title": "Keamanan dan Performa",
+        "description": "Peningkatan keamanan serta optimasi performa aplikasi."
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
     "version": "1.6.1",
     "release_date": "2025-08-26",
     "features": [],
