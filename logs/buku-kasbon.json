@@ -1,19 +1,33 @@
 [
   {
+    "version": "1.6.2",
+    "release_date": "2025-08-28",
+    "features": [],
+    "changes": [],
+    "fixes": [
+      {
+        "title": "Keamanan dan Performa",
+        "description": "Peningkatan keamanan serta optimasi performa aplikasi."
+      }
+    ],
+    "info": []
+  },
+  {
     "version": "1.6.1",
     "release_date": "2025-08-26",
     "features": [],
     "changes": [
       {
-        "title": "Perbaikan Perhitungan Persentase Kasbon",
-        "description": "Memperbaiki proses kalkulasi persentase kasbon pada halaman rincian kasbon."
-      },
-      {
         "title": "Perbaikan Tata Letak Formulir Bayar Kasbon Kolektif",
         "description": "Menyesuaikan tata letak pada formulir bayar kasbon kolektif agar lebih rapi dan mudah digunakan."
       }
     ],
-    "fixes": [],
+    "fixes": [
+      {
+        "title": "Perbaikan Perhitungan Persentase Kasbon",
+        "description": "Memperbaiki proses kalkulasi persentase kasbon pada halaman rincian kasbon."
+      }
+    ],
     "info": []
   },
   {
