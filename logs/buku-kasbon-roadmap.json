@@ -11,20 +11,20 @@
   {
     "title": "Backup & Restore",
     "description": "Memungkinkan pengguna membuat cadangan (backup) data kasbon di perangkat, serta memulihkannya (restore) dari berkas cadangan yang tersedia.",
-    "status": "Direncanakan",
-    "bg": "#2196F3",
+    "status": "Sedang Dikerjakan",
+    "bg": "#E91E63",
     "color": "#FFFFFF",
-    "note": "Proses pengerjaan direncanakan dimulai akhir Kuartal 3 2025.",
-    "target": "Kuartal 4 2025"
+    "note": "Sedang proses pengerjaan, fitur akan di rilis paling telat akhir kuartal 4 2025.",
+    "target": "K4 2025"
   },
   {
     "title": "Hapus Iklan",
     "description": "Berdasarkan masukan pengguna melalui email dan ulasan di Google Play Store, kami akan merilis versi berbayar untuk menghapus semua iklan di dalam aplikasi.",
-    "status": "Direncanakan",
-    "bg": "#2196F3",
+    "status": "Sedang Dikerjakan",
+    "bg": "#E91E63",
     "color": "#FFFFFF",
-    "note": "Proses pengerjaan direncanakan dimulai akhir Kuartal 3 2025.",
-    "target": "Kuartal 4 2025"
+    "note": "Sedang proses pengerjaan, fitur akan di rilis paling telat akhir kuartal 4 2025.",
+    "target": "K4 2025"
   },
   {
     "title": "Pembayaran Global (pembayaran kolektif)",
@@ -36,7 +36,7 @@
     "target": "K3 2025"
   },
   {
-    "title": "Laporan PDF",
+    "title": "Laporan PDF Rincian Kasbon",
     "description": "Laporan ringkasan kasbon dalam bentuk PDF dan dapat dikirim langsung ke Nomor WhatsApp pelanggan atau yang lainnya.",
     "status": "Dirilis",
     "bg": "#4CAF50",
