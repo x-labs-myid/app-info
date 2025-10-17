@@ -1,5 +1,18 @@
 [
   {
+    "version": "1.6.3",
+    "release_date": "2025-10-18",
+    "features": [],
+    "changes": [],
+    "fixes": [
+      {
+        "title": "Perbaikan sedikit error",
+        "description": "Perbaikan error saat membagikan rincian kasbon lebih dari 20 pada halaman berbagi kasbon, serta perbaikan error saat menampilkan data pelanggan."
+      }
+    ],
+    "info": []
+  },
+  {
     "version": "1.6.2",
     "release_date": "2025-08-28",
     "features": [],
