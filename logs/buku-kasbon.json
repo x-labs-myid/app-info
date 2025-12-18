@@ -1,5 +1,18 @@
 [
   {
+    "version": "1.7.0",
+    "release_date": "2025-12-22",
+    "features": [
+      {
+        "title": "Backup & Restore Data",
+        "description": "Menambahkan fitur Backup dan Restore Data untuk memindahkan data kasbon secara penuh ke perangkat lain dengan kendali penuh di tangan Anda."
+      }
+    ],
+    "changes": [],
+    "fixes": [],
+    "info": []
+  },
+  {
     "version": "1.6.3",
     "release_date": "2025-10-18",
     "features": [],
