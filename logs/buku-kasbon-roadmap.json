@@ -20,11 +20,11 @@
   {
     "title": "Hapus Iklan",
     "description": "Berdasarkan masukan pengguna melalui email dan ulasan di Google Play Store, kami akan merilis versi berbayar untuk menghapus semua iklan di dalam aplikasi.",
-    "status": "Sedang Dikerjakan",
-    "bg": "#E91E63",
+    "status": "Dirilis",
+    "bg": "#4CAF50",
     "color": "#FFFFFF",
-    "note": "Perilisan di undur dari K4 2025 ke 2026.",
-    "target": "2026"
+    "note": "Dirilis pada 13 Januari 2026 di versi 1.8.0.",
+    "target": "K1 2026"
   },
   {
     "title": "Pembayaran Global (pembayaran kolektif)",
