@@ -1,5 +1,18 @@
 [
   {
+    "version": "1.8.0",
+    "release_date": "2026-01-13",
+    "features": [
+      {
+        "title": "Dukung Kami (Hapus Iklan)",
+        "description": "Menambahkan fitur Dukung Kami, yaitu opsi pembelian atau langganan untuk menikmati pengalaman tanpa iklan sesuai periode yang dipilih."
+      }
+    ],
+    "changes": [],
+    "fixes": [],
+    "info": []
+  },
+  {
     "version": "1.7.0",
     "release_date": "2025-12-22",
     "features": [
