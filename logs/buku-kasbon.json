@@ -9,7 +9,12 @@
       }
     ],
     "changes": [],
-    "fixes": [],
+    "fixes": [
+      {
+        "title": "Perbaikan Format Nomor Telepon Otomatis",
+        "description": "Secara otomatis mengonversi nomor telepon lokal ke format internasional yang valid (misalnya 0816772871 → 62816772871) saat mengirim pesan WhatsApp, SMS, atau melakukan panggilan melalui halaman profil pelanggan."
+      }
+    ],
     "info": []
   },
   {
