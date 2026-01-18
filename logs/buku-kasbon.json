@@ -1,5 +1,28 @@
 [
   {
+    "version": "1.8.5",
+    "release_date": "2026-01-22",
+    "features": [
+      {
+        "title": "Pengembangan modul laporan",
+        "description": "Menambahkan berbagai fitur baru pada modul laporan untuk menyajikan data yang lebih lengkap dan informatif bagi pengguna."
+      }
+    ],
+    "changes": [
+      {
+        "title": "Penyempurnaan tampilan laporan",
+        "description": "Menyesuaikan struktur dan tampilan laporan agar lebih mudah dibaca dan dipahami."
+      }
+    ],
+    "fixes": [
+      {
+        "title": "Perbaikan data laporan",
+        "description": "Memperbaiki beberapa isu pada data laporan agar hasil yang ditampilkan lebih akurat."
+      }
+    ],
+    "info": []
+  },
+  {
     "version": "1.8.2",
     "release_date": "2026-01-18",
     "features": [],
