@@ -6,12 +6,24 @@
       {
         "title": "Pengembangan modul laporan",
         "description": "Menambahkan berbagai fitur baru pada modul laporan untuk menyajikan data yang lebih lengkap dan informatif bagi pengguna."
+      },
+      {
+        "title": "Filter saat membagikan kasbon",
+        "description": "Menambahkan fitur filter pada saat ingin membagikan kasbon agar data yang dibagikan lebih relevan."
       }
     ],
     "changes": [
       {
         "title": "Penyempurnaan tampilan laporan",
         "description": "Menyesuaikan struktur dan tampilan laporan agar lebih mudah dibaca dan dipahami."
+      },
+      {
+        "title": "Perbaikan desain antarmuka",
+        "description": "Melakukan perapihan desain aplikasi agar tampilan lebih konsisten dan nyaman digunakan."
+      },
+      {
+        "title": "Optimasi performa aplikasi",
+        "description": "Meningkatkan performa aplikasi untuk mempercepat proses dan mengurangi beban sistem."
       }
     ],
     "fixes": [
