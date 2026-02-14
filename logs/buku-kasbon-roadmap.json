@@ -9,6 +9,15 @@
     "target": "K3 2026"
   },
   {
+    "title": "Wajah Baru Buku Kasbon",
+    "description": "Memperbarui tampilan aplikasi Buku Kasbon agar lebih rapi, modern, dan mudah digunakan oleh pengguna awam. Pembaruan ini juga mencakup optimasi performa untuk meningkatkan kecepatan dan responsivitas aplikasi. Perubahan ini dilakukan sebagai langkah besar sebelum pengembangan Buku Kasbon Hybrid dimulai.",
+    "status": "Sedang Dikerjakan",
+    "bg": "#E91E63",
+    "color": "#FFFFFF",
+    "note": "Diperkirakan akan dirilis pada awal Kuartal 2, sekitar April 2026.",
+    "target": "K2 2026"
+  },
+  {
     "title": "Backup & Restore",
     "description": "Memungkinkan pengguna membuat cadangan (backup) data kasbon di perangkat, serta memulihkannya (restore) dari berkas cadangan yang tersedia.",
     "status": "Dirilis",
