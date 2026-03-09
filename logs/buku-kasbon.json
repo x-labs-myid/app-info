@@ -1,5 +1,128 @@
 [
   {
+    "version": "1.8.7",
+    "release_date": "2026-02-07",
+    "features": [
+      {
+        "title": "Aksi massal pada halaman transaksi",
+        "description": "Menambahkan fitur aksi massal pada halaman transaksi untuk mempermudah pengelolaan dan pengolahan data transaksi."
+      }
+    ],
+    "changes": [
+      {
+        "title": "Penyempurnaan tampilan antarmuka",
+        "description": "Melakukan perbaikan dan penyesuaian tampilan antarmuka agar lebih rapi."
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
+    "version": "1.8.5",
+    "release_date": "2026-01-22",
+    "features": [
+      {
+        "title": "Pengembangan modul laporan",
+        "description": "Menambahkan berbagai fitur baru pada modul laporan untuk menyajikan data yang lebih lengkap dan informatif bagi pengguna."
+      },
+      {
+        "title": "Filter saat membagikan kasbon",
+        "description": "Menambahkan fitur filter pada saat ingin membagikan kasbon agar data yang dibagikan lebih relevan."
+      }
+    ],
+    "changes": [
+      {
+        "title": "Penyempurnaan tampilan laporan",
+        "description": "Menyesuaikan struktur dan tampilan laporan agar lebih mudah dibaca dan dipahami."
+      },
+      {
+        "title": "Perbaikan desain antarmuka",
+        "description": "Melakukan perapihan desain aplikasi agar tampilan lebih konsisten dan nyaman digunakan."
+      },
+      {
+        "title": "Optimasi performa aplikasi",
+        "description": "Meningkatkan performa aplikasi untuk mempercepat proses dan mengurangi beban sistem."
+      }
+    ],
+    "fixes": [
+      {
+        "title": "Perbaikan data laporan",
+        "description": "Memperbaiki beberapa isu pada data laporan agar hasil yang ditampilkan lebih akurat."
+      }
+    ],
+    "info": []
+  },
+  {
+    "version": "1.8.2",
+    "release_date": "2026-01-18",
+    "features": [],
+    "changes": [],
+    "fixes": [
+      {
+        "title": "Perbaikan bug dan peningkatan performa",
+        "description": "Memperbaiki sejumlah bug serta melakukan optimasi performa aplikasi agar lebih stabil dan efisien."
+      }
+    ],
+    "info": []
+  },
+  {
+    "version": "1.8.1",
+    "release_date": "2026-01-16",
+    "features": [],
+    "changes": [],
+    "fixes": [
+      {
+        "title": "Perbaikan bug dan peningkatan performa",
+        "description": "Memperbaiki sejumlah bug serta melakukan optimasi performa aplikasi agar lebih stabil dan efisien."
+      }
+    ],
+    "info": []
+  },
+  {
+    "version": "1.8.0",
+    "release_date": "2026-01-13",
+    "features": [
+      {
+        "title": "Dukung Kami (Hapus Iklan)",
+        "description": "Menambahkan fitur Dukung Kami, yaitu opsi pembelian atau langganan untuk menikmati pengalaman tanpa iklan sesuai periode yang dipilih."
+      }
+    ],
+    "changes": [],
+    "fixes": [
+      {
+        "title": "Perbaikan Format Nomor Telepon Otomatis",
+        "description": "Secara otomatis mengonversi nomor telepon lokal ke format internasional yang valid (misalnya 0816772871 → 62816772871) saat mengirim pesan WhatsApp, SMS, atau melakukan panggilan melalui halaman profil pelanggan."
+      }
+    ],
+    "info": []
+  },
+  {
+    "version": "1.7.0",
+    "release_date": "2025-12-22",
+    "features": [
+      {
+        "title": "Backup & Restore Data",
+        "description": "Menambahkan fitur Backup dan Restore Data untuk memindahkan data kasbon secara penuh ke perangkat lain dengan kendali penuh di tangan Anda."
+      }
+    ],
+    "changes": [],
+    "fixes": [],
+    "info": []
+  },
+  {
+    "version": "1.6.3",
+    "release_date": "2025-10-18",
+    "features": [],
+    "changes": [],
+    "fixes": [
+      {
+        "title": "Perbaikan sedikit error",
+        "description": "Perbaikan error saat membagikan rincian kasbon lebih dari 20 pada halaman berbagi kasbon, serta perbaikan error saat menampilkan data pelanggan."
+      }
+    ],
+    "info": []
+  },
+  {
     "version": "1.6.2",
     "release_date": "2025-08-28",
     "features": [],
