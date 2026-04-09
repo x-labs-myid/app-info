@@ -1,5 +1,39 @@
 [
   {
+    "version": "2.0.0",
+    "release_date": "2026-04-10",
+    "features": [
+      {
+        "title": "Aksi Massal pada Halaman Transaksi",
+        "description": "Menambahkan fitur aksi massal pada halaman transaksi untuk mempermudah pengelolaan dan pemrosesan data transaksi secara efisien."
+      },
+      {
+        "title": "Wajah Baru Buku Kasbon v2",
+        "description": "Memperbarui tampilan Buku Kasbon dengan desain baru yang lebih modern, intuitif, dan nyaman digunakan."
+      },
+      {
+        "title": "Jatuh Tempo dan Notifikasi",
+        "description": "Menambahkan fitur jatuh tempo pada kasbon beserta sistem notifikasi untuk mengingatkan pengguna sebelum atau saat kasbon jatuh tempo."
+      }
+    ],
+    "changes": [
+      {
+        "title": "Penyempurnaan Tampilan Antarmuka",
+        "description": "Melakukan perbaikan dan penyesuaian tampilan antarmuka agar lebih rapi, konsisten, dan mudah dinavigasi."
+      },
+      {
+        "title": "Informasi Selisih Kasbon pada Halaman Laporan",
+        "description": "Menambahkan informasi selisih antara kasbon yang sudah dibayar dan belum dibayar pada halaman laporan untuk memudahkan rekonsiliasi data."
+      },
+      {
+        "title": "Informasi Tanggal Kasbon pada Halaman Bagikan Kasbon",
+        "description": "Menambahkan informasi tanggal kasbon pada halaman Bagikan Kasbon agar penerima dapat melihat detail waktu kasbon secara langsung."
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
     "version": "1.8.7",
     "release_date": "2026-02-07",
     "features": [
