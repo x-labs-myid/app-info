@@ -11,19 +11,19 @@
   {
     "title": "Jatuh Tempo",
     "description": "Menambahkan input (opsional) dan notifikasi jatuh tempo apabila sebuah kasbon memiliki informasi jatuh tempo.",
-    "status": "Sedang Dikerjakan",
-    "bg": "#E91E63",
+    "status": "Dirilis",
+    "bg": "#4CAF50",
     "color": "#FFFFFF",
-    "note": "Diperkirakan akan dirilis pada awal Kuartal 2, sekitar April 2026.",
+    "note": "Dirilis pada 10 April 2026 di versi 2.0.0",
     "target": "K2 2026"
   },
   {
     "title": "Wajah Baru Buku Kasbon v2",
     "description": "Memperbarui tampilan aplikasi Buku Kasbon agar lebih rapi, modern, dan mudah digunakan oleh pengguna awam. Pembaruan ini juga mencakup optimasi performa untuk meningkatkan kecepatan dan responsivitas aplikasi. Perubahan ini dilakukan sebagai langkah besar sebelum pengembangan Buku Kasbon Hybrid dimulai.",
-    "status": "Sedang Dikerjakan",
-    "bg": "#E91E63",
+    "status": "Dirilis",
+    "bg": "#4CAF50",
     "color": "#FFFFFF",
-    "note": "Diperkirakan akan dirilis pada awal Kuartal 2, sekitar April 2026.",
+    "note": "Dirilis pada 10 April 2026 di versi 2.0.0",
     "target": "K2 2026"
   },
   {
