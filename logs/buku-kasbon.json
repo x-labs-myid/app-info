@@ -1,5 +1,27 @@
 [
   {
+    "version": "2.0.2",
+    "release_date": "2026-04-11",
+    "features": [
+      {
+        "title": "Pembersihan Data",
+        "description": "Fitur untuk membersihkan data yang tidak valid, umumnya terjadi ketika data pelanggan dihapus sementara pelanggan tersebut masih memiliki data kasbon."
+      },
+      {
+        "title": "Filter pada Ringkasan Kasbon",
+        "description": "Menambahkan filter pada halaman ringkasan kasbon untuk menentukan data yang dihitung, apakah hanya data bukan arsip, hanya data arsip, atau semua data."
+      }
+    ],
+    "changes": [],
+    "fixes": [
+      {
+        "title": "Laporan",
+        "description": "Memperbaiki perhitungan ringkasan laporan kasbon."
+      }
+    ],
+    "info": []
+  },
+  {
     "version": "2.0.0",
     "release_date": "2026-04-10",
     "features": [
