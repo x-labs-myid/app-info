@@ -1,5 +1,18 @@
 [
   {
+    "version": "2.2.0",
+    "release_date": "2026-05-02",
+    "features": [],
+    "changes": [],
+    "fixes": [
+      {
+        "title": "Bayar Kasbon Kolektif",
+        "description": "Perbaikan bug saat melakukan pembayaran kasbon kolektif dengan jumlah kasbon di atas 10"
+      }
+    ],
+    "info": []
+  },
+  {
     "version": "2.1.0",
     "release_date": "2026-04-25",
     "features": [
