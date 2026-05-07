@@ -1,5 +1,27 @@
 [
   {
+    "version": "2.3.0",
+    "release_date": "2026-05-08",
+    "features": [],
+    "changes": [
+      {
+        "title": "Perbaikan Tampilan",
+        "description": "Perbaikan tampilan agar menjadi lebih rapi dan mudah digunakan"
+      },
+      {
+        "title": "Dukungan Nilai Desimal",
+        "description": "Menambahkan dukungan nilai desimal untuk mata uang yang menggunakan desimal, contoh seperti dolar ($1.5 = 1 dolar 5 sen)"
+      }
+    ],
+    "fixes": [
+      {
+        "title": "Perbaikan Bug",
+        "description": "Memperbaiki bug"
+      }
+    ],
+    "info": []
+  },
+  {
     "version": "2.2.0",
     "release_date": "2026-05-02",
     "features": [],
