@@ -1,5 +1,28 @@
 [
   {
+    "version": "2.4.0",
+    "release_date": "2026-06-05",
+    "features": [
+      {
+        "title": "Koreksi Pembayaran",
+        "description": "Menambahkan fitur koreksi pembayaran kasbon"
+      }
+    ],
+    "changes": [
+      {
+        "title": "Beranda, detail kasbon dan laporan",
+        "description": "Mengoptimalkan tampilan beranda, detail kasbon dan laporan agar lebih ramah pengguna"
+      }
+    ],
+    "fixes": [
+      {
+        "title": "Perbaikan Bugs",
+        "description": "Memperbaiki bugs pada aplikasi"
+      }
+    ],
+    "info": []
+  },
+  {
     "version": "2.3.0",
     "release_date": "2026-05-08",
     "features": [],
