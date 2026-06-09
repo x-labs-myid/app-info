@@ -1,5 +1,22 @@
 [
   {
+    "version": "2.5.3",
+    "release_date": "2026-06-09",
+    "features": [],
+    "changes": [
+      {
+        "title": "Perbaikan menu koreksi pembayaran",
+        "description": "Menonaktifkan opsi koreksi pembayaran untuk status Kasbon Lunas dan Arsip Kasbon."
+      },
+      {
+        "title": "Perbaikan tampilan bagikan kasbon",
+        "description": "Perbaikan tampilan pada halaman Bagikan Kasbon beserta hasil cetak laporan PDF."
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
     "version": "2.5.0",
     "release_date": "2026-06-05",
     "features": [
