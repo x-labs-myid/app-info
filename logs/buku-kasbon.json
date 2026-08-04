@@ -1,5 +1,151 @@
 [
   {
+    "version": "2.5.3",
+    "release_date": "2026-06-09",
+    "features": [],
+    "changes": [
+      {
+        "title": "Perbaikan menu koreksi pembayaran",
+        "description": "Menonaktifkan opsi koreksi pembayaran untuk status Kasbon Lunas dan Arsip Kasbon."
+      },
+      {
+        "title": "Perbaikan tampilan bagikan kasbon",
+        "description": "Perbaikan tampilan pada halaman Bagikan Kasbon beserta hasil cetak laporan PDF."
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
+    "version": "2.5.0",
+    "release_date": "2026-06-05",
+    "features": [
+      {
+        "title": "Koreksi Pembayaran",
+        "description": "Menambahkan fitur koreksi pembayaran kasbon"
+      }
+    ],
+    "changes": [
+      {
+        "title": "Beranda, detail kasbon dan laporan",
+        "description": "Mengoptimalkan tampilan beranda, detail kasbon dan laporan agar lebih ramah pengguna"
+      }
+    ],
+    "fixes": [
+      {
+        "title": "Perbaikan Bugs",
+        "description": "Memperbaiki bugs pada aplikasi"
+      }
+    ],
+    "info": []
+  },
+  {
+    "version": "2.3.0",
+    "release_date": "2026-05-08",
+    "features": [],
+    "changes": [
+      {
+        "title": "Perbaikan Tampilan",
+        "description": "Perbaikan tampilan agar menjadi lebih rapi dan mudah digunakan"
+      },
+      {
+        "title": "Dukungan Nilai Desimal",
+        "description": "Menambahkan dukungan nilai desimal untuk mata uang yang menggunakan desimal, contoh seperti dolar ($1.5 = 1 dolar 5 sen)"
+      }
+    ],
+    "fixes": [
+      {
+        "title": "Perbaikan Bug",
+        "description": "Memperbaiki bug"
+      }
+    ],
+    "info": []
+  },
+  {
+    "version": "2.2.0",
+    "release_date": "2026-05-02",
+    "features": [],
+    "changes": [],
+    "fixes": [
+      {
+        "title": "Bayar Kasbon Kolektif",
+        "description": "Perbaikan bug saat melakukan pembayaran kasbon kolektif dengan jumlah kasbon di atas 10"
+      }
+    ],
+    "info": []
+  },
+  {
+    "version": "2.1.0",
+    "release_date": "2026-04-25",
+    "features": [
+      {
+        "title": "Rincian Laporan Jatuh Tempo",
+        "description": "Menambahkan rincian laporan jatuh tempo untuk memudahkan pemantauan kasbon yang mendekati atau telah melewati tanggal jatuh tempo."
+      }
+    ],
+    "changes": [
+      {
+        "title": "Tampilan Halaman Laporan",
+        "description": "Memperbaiki dan menyempurnakan tampilan pada halaman laporan agar lebih rapi dan mudah dibaca."
+      }
+    ],
+    "fixes": [
+      {
+        "title": "Perbaikan Bug",
+        "description": "Memperbaiki beberapa bug yang ditemukan pada versi sebelumnya."
+      }
+    ],
+    "info": []
+  },
+  {
+    "version": "2.0.2",
+    "release_date": "2026-04-11",
+    "features": [
+      {
+        "title": "Pembersihan Data",
+        "description": "Fitur untuk membersihkan data yang tidak valid, umumnya terjadi ketika data pelanggan dihapus sementara pelanggan tersebut masih memiliki data kasbon."
+      },
+      {
+        "title": "Filter pada Ringkasan Kasbon",
+        "description": "Menambahkan filter pada halaman ringkasan kasbon untuk menentukan data yang dihitung, apakah hanya data bukan arsip, hanya data arsip, atau semua data."
+      }
+    ],
+    "changes": [],
+    "fixes": [
+      {
+        "title": "Laporan",
+        "description": "Memperbaiki perhitungan ringkasan laporan kasbon."
+      }
+    ],
+    "info": []
+  },
+  {
+    "version": "2.0.0",
+    "release_date": "2026-04-10",
+    "features": [
+      {
+        "title": "Wajah Baru Buku Kasbon v2",
+        "description": "Memperbarui tampilan Buku Kasbon dengan desain baru yang lebih modern, intuitif, dan nyaman digunakan."
+      },
+      {
+        "title": "Jatuh Tempo dan Notifikasi",
+        "description": "Menambahkan fitur jatuh tempo pada kasbon beserta sistem notifikasi untuk mengingatkan pengguna sebelum atau saat kasbon jatuh tempo."
+      }
+    ],
+    "changes": [
+      {
+        "title": "Informasi Selisih Kasbon pada Halaman Laporan",
+        "description": "Menambahkan informasi selisih antara kasbon yang sudah dibayar dan belum dibayar pada halaman laporan untuk memudahkan rekonsiliasi data."
+      },
+      {
+        "title": "Informasi Tanggal Kasbon pada Halaman Bagikan Kasbon",
+        "description": "Menambahkan informasi tanggal kasbon pada halaman Bagikan Kasbon agar penerima dapat melihat detail waktu kasbon secara langsung."
+      }
+    ],
+    "fixes": [],
+    "info": []
+  },
+  {
     "version": "1.8.7",
     "release_date": "2026-02-07",
     "features": [
