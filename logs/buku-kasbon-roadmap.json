@@ -2,8 +2,8 @@
   {
     "title": "Buku Kasbon Hybrid",
     "description": "Aplikasi Buku Kasbon Hybrid memungkinkan pengguna tetap dapat mengelola kasbon tanpa koneksi internet. Data akan disimpan sementara di perangkat, lalu otomatis tersinkronisasi ke Cloud saat koneksi internet tersedia.",
-    "status": "Sedang Dikerjakan",
-    "bg": "#E91E63",
+    "status": "Dirilis",
+    "bg": "#4CAF50",
     "color": "#FFFFFF",
     "note": "Akan mulai dikerjakan sekitar K2 2026. Jika tidak ada kendala, diperkirakan akan dirilis pada K3 2026, tepatnya pada 17 Agustus 2026.",
     "target": "K3 2026"
