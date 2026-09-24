@@ -1,5 +1,23 @@
 [
   {
+    "version": "3.1.0",
+    "release_date": "2026-09-13",
+    "features": [],
+    "changes": [
+      {
+        "title": "Pembaruan Engine",
+        "description": "Menaikan versi engine ke versi terbaru."
+      },
+    ],
+    "fixes": [
+      {
+        "title": "Perbaikan bugs",
+        "description": "Memperbaiki beberapa bugs yang dilaporkan pengguna."
+      },
+    ],
+    "info": []
+  },
+  {
     "version": "3.0.0",
     "release_date": "2026-08-17",
     "features": [
