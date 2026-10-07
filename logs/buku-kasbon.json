@@ -16,7 +16,7 @@
         }
       ],
       "info": []
-  }
+  },
   {
     "version": "3.0.0",
     "release_date": "2026-08-17",
@@ -24,7 +24,7 @@
       {
         "title": "Buku Kasbon Hybrid",
         "description": "Memungkinkan mengelola data kasbon secara Offline ataupun Online."
-      },
+      }
     ],
     "changes": [],
     "fixes": [],
